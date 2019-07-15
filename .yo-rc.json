@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.cmavelis.store"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "store",
+    "packageName": "com.cmavelis.store",
+    "packageFolder": "com/cmavelis/store",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Nzc0NjY0Yjk1NzMzYTgyZTYzZjgxZGU3OTNmMjljZGY4MGMwNGE4MzBhNGE5ZTg3YmE2YThkMWM0MTA4ODk4YmYzZTUwYjRkMjdlNjYyNDQ2YTdlNTFlNDkxNDAxM2NlYmFkZmFiNjBmY2U2NTEyZjczMDg2ZGEzMGFjYTAzN2Y=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
